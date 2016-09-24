@@ -1,0 +1,3 @@
+import: 
+  - package: golang.org/x/text/transform
+  - package: golang.org/x/text/encoding/japanese
