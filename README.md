@@ -1,4 +1,4 @@
-mpeg2
+mpeg2ts
 ===========
 
 *CAUTION this is not avaiable now*
